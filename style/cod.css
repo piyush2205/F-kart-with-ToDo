@@ -1,0 +1,38 @@
+#results{
+    /* border: 1px solid red; */
+    /* text-align: center;
+    margin: auto; */
+    margin-top: 1rem;
+    margin: 40px; 
+    text-align: center;
+    border-bottom: 1px solid wheat;
+    border-top: 1px solid wheat;
+}
+
+#h1{
+    margin: 40px;
+    
+    text-align: center;
+    border-bottom: 1px solid wheat;
+    /* border: 1px solid red; */
+ 
+    margin-top: 1rem;
+}
+
+#results h1{
+    margin: 10px; 
+    text-align: center;
+    /* border-bottom: 1px solid wheat; */
+   
+}
+#results button{
+    color:wheat;
+    box-shadow: rgba(244, 241, 241, 0.35) 0px 5px 15px;
+    border-bottom: 1px solid wheat;
+    /* margin: 1rem 3rem; */
+    height: 2.5rem;
+    width: 8rem;
+    border-radius: 2rem;
+     margin-top: 1rem;
+     margin-bottom: 1rem;
+}

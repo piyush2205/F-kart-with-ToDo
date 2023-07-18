@@ -1,0 +1,21 @@
+#results{
+    display:grid ;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap: 10px;
+    margin-top: 10px;
+}
+#results img{
+    width: 90%;
+    height: 80%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.imgofbreed{
+    
+   /* border: 1px solid; */
+   /* height: 200px; */
+   /* width: 200px; */
+   box-shadow: rgba(244, 241, 241, 0.35) 0px 5px 15px;
+}

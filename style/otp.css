@@ -1,0 +1,35 @@
+#otp_div{
+    /* border: 1px solid red; */
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    margin-top: 1rem;
+}
+
+input{
+    margin-top: 10px;
+  
+    text-align: center;
+    border: 1px solid;
+    border-radius: 2rem;
+     /* margin-right:310px; */
+     margin-left: 10px;
+    box-shadow: rgba(244, 241, 241, 0.35) 0px 5px 15px;
+    height: 50px;
+    width: 50px;
+}
+#button__div{
+    margin-left: 555px;
+    /* border: 1px solid red; */
+}
+#button__div  button{
+    margin-top: 10px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 2rem;
+     
+     margin-left: 10px;
+    box-shadow: rgba(244, 241, 241, 0.35) 0px 5px 15px;
+    height: 60px;
+    width: 170px;
+}
